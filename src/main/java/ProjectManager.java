@@ -8,5 +8,9 @@
  * @author Christian Malan
  */
 public class ProjectManager {
-
+    
+    
+    public double calculateDiscount(double price, double discountRate){
+       return price - (price * discountRate);
+    }
 }
