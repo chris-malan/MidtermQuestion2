@@ -8,7 +8,7 @@
  * @author Christian Malan
  */
 public class ProjectManager {
-    
+    //add comment
     //calculate the discount price by getting the price and discount paramenters
     // subtract the discount price to actual price
    // return the discount
